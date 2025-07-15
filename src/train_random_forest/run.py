@@ -106,6 +106,7 @@ def go(args):
     export_path = "random_forest_dir"
     pred = sk_pipe.predict(X_val)
     logger.info(f"========= KB: Pipeline Prediction Var Type: {type(pred)}")
+    
     signature = mlflow.models.infer_signature(X_val.to_numpy(), sk_pipe.predict(X_val))
     mlflow.sklearn.save_model(
             sk_pipe,
