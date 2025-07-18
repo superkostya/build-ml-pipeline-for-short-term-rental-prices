@@ -8,10 +8,12 @@
   * More importantly, it is my strong opinion that such information regarding any extra charges associated with this course should have been disclosed ahead of time. 
   * Therefore, I respectfully ask that you consider my submission despite the aforementioned Weights & Biases project page access issue. 
   * In order to mitigate a limited access to the W&B project page, I have created a directory `SUBMISSION_MATERIALS` in the submitted GitHub repository. It contains a series of screenshots of the Weights & Biases project page (project name: __"nyc_airbnb"__), including the following:
-   * A list of artifacts
-   * A list of runs (shown as a table with multiple columns, including performance metrics such as R2 and MAE)
-   * The Workspacwe page
-   * A page with the details for a trained Random Forest model tagged for PROD
+      * A list of artifacts
+      * A list of runs (shown as a table with multiple columns, including performance metrics such as R2 and MAE)
+      * The Workspacwe page
+      * A page with the details for a trained Random Forest model tagged for PROD
+
+Thank you for your consideration.
 
 
 You are working for a property management company renting rooms and properties for short periods of 
