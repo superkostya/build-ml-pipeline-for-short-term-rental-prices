@@ -1,4 +1,19 @@
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
+
+## Submission Details
+ * GitHub Repo: https://github.com/superkostya/build-ml-pipeline-for-short-term-rental-prices.git
+ * Weights & Biases Project Page: https://wandb.ai/kostya-borysenko-ego/nyc_airbnb?nw=nwuserkostyaborysenko
+ ## Important Notes From the Student 
+  * Presently, Weights & Biases have disabled any kind of Public Sharing under the Free Plan. The next available option for any user is to purchase the "Pro Plan" that would cost $600/year (no monthly payment option is available). As one can imagine, this price may prove prohibitively high for a majority of the Udacity students. 
+  * More importantly, it is my strong opinion that such information regarding any extra charges associated with this course should have been disclosed ahead of time. 
+  * Therefore, I respectfully ask that you consider my submission despite the aforementioned Weights & Biases project page access issue. 
+  * In order to mitigate a limited access to the W&B project page, I have created a directory `SUBMISSION_MATERIALS` in the submitted GitHub repository. It contains a series of screenshots of the Weights & Biases project page (project name: __"nyc_airbnb"__), including the following:
+   * A list of artifacts
+   * A list of runs (shown as a table with multiple columns, including performance metrics such as R2 and MAE)
+   * The Workspacwe page
+   * A page with the details for a trained Random Forest model tagged for PROD
+
+
 You are working for a property management company renting rooms and properties for short periods of 
 time on various rental platforms. You need to estimate the typical price for a given property based 
 on the price of similar properties. Your company receives new data in bulk every week. The model needs 
